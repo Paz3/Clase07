@@ -1,0 +1,141 @@
+body {
+	background-color: #ECF0E9;
+	margin:0;
+
+}
+
+.cuadro_blanco {
+	width: 70%;
+	background-color: white;
+	margin:0px auto;
+	margin-top: 7%;
+	clear: both;
+
+}
+
+.titulo {
+	color: #3D3E3D;
+	font-family: sans-serif;
+	font-size: 0.8em;
+	text-align: center;
+	padding-top: 20%;
+	margin-bottom: 7%;
+}
+
+.nombre {
+	color: #E197E3;
+	font-family: sans-serif;
+	font-size: 1em;
+}
+
+h2 {
+	color: #E197E3;
+	font-family: sans-serif;
+	font-size: 1rem;
+
+}
+
+p {
+	color: #868989;
+
+}
+
+.div_left_1, .div_left_2, .div_left_3 {
+	width: 55%;
+	font-family: sans-serif;
+	font-size: 0.9em;
+	text-align: justify;
+	padding-left: 5%;
+	/*padding-top: 5%;*/
+	/*padding-bottom: 2%;*/
+	
+
+}
+
+.content_row {
+	
+	margin-bottom: 2em;
+}
+
+.fecha {
+	color: #868989;
+	display: table-cell;
+	width: 10%;
+	padding-right: 5%;
+}
+.texto_lado {
+	color: #868989;
+	font-size: 0.8rem;
+	display: table-cell;
+	width: 90%;
+	padding:5%;
+    box-sizing: border-box;
+    background-color: #ecf0e9;
+    margin-bottom: 3em;
+
+}
+
+.fechas_google {
+	font-size: 0.6rem;
+
+}
+
+.fecha_2 {
+	color: #868989;
+	display: table-cell;
+	width: 10%;
+	padding-right: 5%;
+}
+.texto_lado_2 {
+	color: #868989;
+	font-size: 0.8rem;
+	display: table-cell;
+	width: 90%;
+    padding:5%;
+    box-sizing: border-box;
+    background-color: #ecf0e9;
+
+}
+
+.fechas_google_2 {
+	font-size: 0.6rem;
+
+}
+
+.div_right {
+	width: 45%;
+	font-family: sans-serif;
+	
+}
+
+.cell {
+
+	width: 55%;
+	font-family: sans-serif;
+	font-size: 0.9em;
+	text-align: justify;
+	padding-left: 5%;
+
+}
+
+.cell_right {
+
+	width: 45%;
+	font-family: sans-serif;
+	font-size: 0.9em;
+	text-align: justify;
+	padding-left: 5%;
+
+}
+
+.row {
+
+	clear: both;
+}
+
+
+
+
+.main_row {
+	display: table-row;
+}
